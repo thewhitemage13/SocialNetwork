@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ApiGateWay" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CommentService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EurekaServer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LikeService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MediaService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NotificationService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PostService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StatisticService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SubscriptionService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UserService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core" vcs="Git" />
+  </component>
+</project>
