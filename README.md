@@ -11,37 +11,44 @@
    - User view by id
    - View all users
    - Open a user to view full information about the user
+     
 **SubscriptionService**:
    - Subscribe to other users
    - Unsubscribe
    - View all user subscriptions
    - View all of a user's subscribers
+     
 **PostService**:
    - Post creation
    - Editing a post
    - Deleting a post
    - Opening a post to view full details
    -opening all user posts by userId
+
 **MediaService**:
    - Upload a media file
    - Deleting media files
    - Get information about media
+     
 **LikeService**:
    - Put likes on publications
    - Put likes on comments
    - Delete likes
    - View all likes on a post
    - View all likes on a comment
+     
 **CommentService**:
    - Create comments
    - Delete comment
    - Update comment
    - Get all the comments on the post
+     
 **NotificationService**:
    - Create notifications
    - Update notice
    - Get notification by userId
    - Get all notifications by userId
+     
 **StatisticService**:
    - Creating statistics
    - Updating statistics
