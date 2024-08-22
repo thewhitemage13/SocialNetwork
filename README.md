@@ -59,16 +59,16 @@
 
 The project is implemented based on a microservice architecture using the following components:
 
-- **EurekaServer**: To discover microservices and simplify the management of component interactions.
-- **ApiGateway**: To route requests and provide secure and optimized access to microservices.
-- **UserService**: For user management.
-- **SubscriptionService**: To manage subscriptions.
-- **PostService**: To control the stations.
-- **MediaService**: To manage media files.
-- **LikeService**: To manage likes.
-- **CommentService**: To manage comments.
-- **NotificationService**: To manage notifications.
-- **StatisticService**: Statistical Management.
+- **[EurekaServer](https://github.com/thewhitemage13/SocialNetwork/tree/main/EurekaServer)**: To discover microservices and simplify the management of component interactions.
+- **[ApiGateway](https://github.com/thewhitemage13/SocialNetwork/tree/main/ApiGateWay)**: To route requests and provide secure and optimized access to microservices.
+- **[UserService](https://github.com/thewhitemage13/SocialNetwork/tree/main/UserService)**: For user management.
+- **[SubscriptionService](https://github.com/thewhitemage13/SocialNetwork/tree/main/SubscriptionService)**: To manage subscriptions.
+- **[PostService](https://github.com/thewhitemage13/SocialNetwork/tree/main/PostService)**: To control the stations.
+- **[MediaService](https://github.com/thewhitemage13/SocialNetwork/tree/main/MediaService)**: To manage media files.
+- **[LikeService](https://github.com/thewhitemage13/SocialNetwork/tree/main/LikeService)**: To manage likes.
+- **[CommentService](https://github.com/thewhitemage13/SocialNetwork/tree/main/CommentService)**: To manage comments.
+- **[NotificationService](https://github.com/thewhitemage13/SocialNetwork/tree/main/NotificationService)**: To manage notifications.
+- **[StatisticService](https://github.com/thewhitemage13/SocialNetwork/tree/main/StatisticService)**: Statistical Management.
 
 ## Rules of Use
 
