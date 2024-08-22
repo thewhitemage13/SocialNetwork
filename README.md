@@ -4,7 +4,7 @@
 **Description:** Developed a social network using a microservice architecture that provides flexibility, scalability and high system performance. The project includes multiple microservices, each responsible for a specific functionality of the platform, ensuring reliable and efficient interaction between components.
 
 ## Functionality
-**UserService**: 
+**[UserService](https://github.com/thewhitemage13/SocialNetwork/blob/main/UserService/src/main/java/org/thewhitemage13/service/UserService.java)**: 
    - User creation
    - User deletions
    - User update
@@ -12,44 +12,44 @@
    - View all users
    - Open a user to view full information about the user
      
-**SubscriptionService**:
+**[SubscriptionService](https://github.com/thewhitemage13/SocialNetwork/blob/main/SubscriptionService/src/main/java/org/thewhitemage13/service/SubscriptionService.java)**:
    - Subscribe to other users
    - Unsubscribe
    - View all user subscriptions
    - View all of a user's subscribers
      
-**PostService**:
+**[PostService](https://github.com/thewhitemage13/SocialNetwork/blob/main/PostService/src/main/java/org/thewhitemage13/service/PostService.java)**:
    - Post creation
    - Editing a post
    - Deleting a post
    - Opening a post to view full details
-   -opening all user posts by userId
+   - Opening all user posts by userId
 
-**MediaService**:
+**[MediaService](https://github.com/thewhitemage13/SocialNetwork/blob/main/MediaService/src/main/java/org/thewhitemage13/service/MediaService.java)**:
    - Upload a media file
    - Deleting media files
    - Get information about media
      
-**LikeService**:
+**[LikeService](https://github.com/thewhitemage13/SocialNetwork/blob/main/LikeService/src/main/java/org/thewhitemage13/service/LikeService.java)**:
    - Put likes on publications
    - Put likes on comments
    - Delete likes
    - View all likes on a post
    - View all likes on a comment
      
-**CommentService**:
+**[CommentService](https://github.com/thewhitemage13/SocialNetwork/blob/main/CommentService/src/main/java/org/thewhitemage13/service/CommentService.java)**:
    - Create comments
    - Delete comment
    - Update comment
    - Get all the comments on the post
      
-**NotificationService**:
+**[NotificationService](https://github.com/thewhitemage13/SocialNetwork/blob/main/NotificationService/src/main/java/org/thewhitemage13/service/NotificationService.java)**:
    - Create notifications
    - Update notice
    - Get notification by userId
    - Get all notifications by userId
      
-**StatisticService**:
+**[StatisticService](https://github.com/thewhitemage13/SocialNetwork/tree/main/StatisticService/src/main/java/org/thewhitemage13/service)**:
    - Creating statistics
    - Updating statistics
    - View statistics by date
